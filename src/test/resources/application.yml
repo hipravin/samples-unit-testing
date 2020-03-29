@@ -1,7 +1,7 @@
 spring:
   mail:
     host: localhost
-    port: 25
+    port: 2525
 
 report:
   recipients:
@@ -13,3 +13,4 @@ report:
     no-reply@company.com
   subject:
     Server status update
+
